@@ -10,3 +10,4 @@ and factoring in the period for which the transaction avalaible for determines w
 
 So transactions with same day, description and frequency equal to the number of months for which the data is available are likely to be recurring.
 
+![Screenshot from 2022-07-08 11-37-04](https://user-images.githubusercontent.com/17858711/177964757-fbf5cae7-475f-4155-a01a-47f392bc6385.png)
