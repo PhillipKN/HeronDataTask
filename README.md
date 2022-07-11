@@ -13,5 +13,5 @@ So transactions with same day, description and frequency equal to the number of 
 
 ![Screenshot from 2022-07-08 11-37-04](https://user-images.githubusercontent.com/17858711/177964757-fbf5cae7-475f-4155-a01a-47f392bc6385.png)
 
-# Approach 2 : "Similarity" metric between transactions
+# Approach 2 : "Similarity" metric
 The second approach is to define some sort of "similarity"metric between transactions, before grouping transactions based on similarity and looking at the regularity of intervals between transactions. Look into **string edit distance** and **tf-idf**.
